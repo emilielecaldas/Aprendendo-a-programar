@@ -1,0 +1,24 @@
+console.log("Olá mundão!")
+console.log("Socorro Deus!")
+let coisas;
+coisas = 'triangulo';
+console.log(coisas)
+let coisa1, coisa2;
+coisa1 = 29;
+console.log(coisa1)
+coisa2 = true;
+console.log(coisas, coisa1, coisa2)
+let nota1 = 5
+let nota2 = 10
+let media = (nota1 + nota2) /2
+console.log('media:', media)
+
+let idadeJogador = 23
+//condicionais
+if (idadeJogador > 18){
+    //se for verdade
+    console.log('Pode jogar')
+}else {
+    //se não for verdade
+    console.log('não pode jogar')
+}
